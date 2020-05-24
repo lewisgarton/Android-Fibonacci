@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Fibonacci</string>
+    <string name="app_name">Fibonacci Generator</string>
+    <string name="btn_next_text">Next</string>
+    <string name="generator_reset_toast">Sequence Reset to Prevent Integer Overflow</string>
 </resources>
